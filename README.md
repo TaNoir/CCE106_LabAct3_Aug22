@@ -1,4 +1,4 @@
-# flutter_application_1
+# Lab_Activity_3_Aug_22
 
 A new Flutter project.
 
